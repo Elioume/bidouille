@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+
+.bleu {
+    color: blue;
+}
+
+.vert {
+    color: green;
+}
+
+h3 {
+    font-size: 20px;  /* taille de la typo */
+    text-align: center; /* aligner le texte au centre */
+}
+
+p {
+    background-color: darkgoldenrod; /* couleur de fond rose */
+    color: white; /* couleur de texte blanc */
+    width: 50%; /* taille du texte */
+    text-align: center; /* centrer le texte */
+    margin: auto; /* centrer la boite */
+}
